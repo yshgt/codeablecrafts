@@ -1,0 +1,31 @@
+section.is-fullheight{
+  margin-top: -50px;
+  padding-top: 50px;
+}
+
+img.logo{
+  margin-right: 10px;
+}
+
+figure.video{
+  width:100%;
+  padding-bottom: 56.25%;
+  height:0px;
+  position: relative;
+}
+
+figure.video iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+img.modal-button, div.click-close, button.click-close{
+  cursor: pointer;
+}
+
+img.download{
+  height: 60px;
+}
